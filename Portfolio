@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anjana T | Science Communication Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #005f73;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #0a9396;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .project {
+      background: white;
+      padding: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #005f73;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Anjana T</h1>
+    <p>Science Communicator | Biologist | Educator</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#writing">Writing</a>
+    <a href="#visuals">Visuals</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#events">Events</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a biologist and science communicator with a strong interest in making scientific knowledge accessible and engaging. My interdisciplinary background in biology and feminist science studies shapes my approach to communicating science through inclusive, critical, and creative lenses.</p>
+  </section>
+
+  <section id="writing">
+    <h2>Writing Samples</h2>
+    <div class="project">
+      <h3>Science & Society: The Story of Epigenetics</h3>
+      <p>A blog-style explainer on the role of epigenetics in development and disease. <a href="#">Read more</a></p>
+    </div>
+    <div class="project">
+      <h3>Maternal Genetics and Health in India</h3>
+      <p>A feature article developed from my Master’s thesis. <a href="#">View article</a></p>
+    </div>
+  </section>
+
+  <section id="visuals">
+    <h2>Visual Content</h2>
+    <div class="project">
+      <h3>DNA Extraction Infographic</h3>
+      <p>Used during outreach events and workshops. <a href="#">View infographic</a></p>
+    </div>
+    <div class="project">
+      <h3>Video: How PCR Works</h3>
+      <p>Short video for undergraduate students. <a href="#">Watch video</a></p>
+    </div>
+  </section>
+
+  <section id="teaching">
+    <h2>Teaching & Educational Material</h2>
+    <div class="project">
+      <h3>Cell Biology Lab Aids</h3>
+      <p>Pedagogical tools created and used during lab sessions. <a href="#">View materials</a></p>
+    </div>
+    <div class="project">
+      <h3>Guest Lectures</h3>
+      <p>Slides and assessments from sessions at Symbiosis School of Liberal Arts. <a href="#">Explore content</a></p>
+    </div>
+  </section>
+
+  <section id="events">
+    <h2>Public Engagement & Events</h2>
+    <div class="project">
+      <h3>NPTEL Workshop on Molecular Methods</h3>
+      <p>Hands-on training in protein extraction and SDS-PAGE. <a href="#">View report</a></p>
+    </div>
+    <div class="project">
+      <h3>Lab Open Day @ Azim Premji University</h3>
+      <p>Event materials and documentation. <a href="#">See photos</a></p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:anjana@example.com">anjana@example.com</a></p>
+    <p>Twitter: <a href="https://twitter.com/yourhandle">@yourhandle</a></p>
+    <p>Download my <a href="#">CV</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Anjana T. All rights reserved.</p>
+  </footer>
+</body>
+</html>
